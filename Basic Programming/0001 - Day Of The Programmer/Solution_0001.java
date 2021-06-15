@@ -3,7 +3,7 @@ import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_0001 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

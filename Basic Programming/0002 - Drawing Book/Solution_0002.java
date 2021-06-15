@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_0002 {
 
     static int pageCount(int n, int p) {
         int front = p >> 1;

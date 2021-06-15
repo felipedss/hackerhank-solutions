@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Time Complexity: O(n)
-public class Solution {
+public class Solution_0003 {
 
     static final int NUM_TYPES = 5;
 
