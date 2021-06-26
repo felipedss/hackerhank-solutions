@@ -7,7 +7,7 @@ import static java.util.stream.Collectors.toList;
 
 // Time complexity O(n)
 // The purpose was converted the character for your ascii correspondent
-public class Solution0004 {
+public class Solution_0004 {
 
     public static void main(String[] args) throws IOException {
         Scanner scan = new Scanner(System.in);
