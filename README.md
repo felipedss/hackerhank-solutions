@@ -15,7 +15,7 @@ Solutions are coded using Java 8
 |    Basic Programming    | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/)                                                         |   10   | [Solution_0002.java](https://github.com/felipedss/hackerhank-solutions/blob/main/Basic%20Programming/0002%20Drawing%20Book/Solution_0002.java)                            |
 |    Basic Programming    | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/)                                                   |   10   | [Solution_0003.java](https://github.com/felipedss/hackerhank-solutions/blob/main/Basic%20Programming/0003%20Migratory%20Birds/Solution_0003.java)                            |
 |    Basic Programming    | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/)                                           |   20   | [Solution_0004.java](https://github.com/felipedss/hackerhank-solutions/blob/main/Basic%20Programming/0004%20-%20Designer%20PDF%20Viewer/Solution0004.java)                            |
-|    Basic Programming    | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/)                                                   |   15   | [Solution_000.java](https://github.com/felipedss/hackerhank-solutions/blob/main/Basic%20Programming/0005%20-%20The%20Hurdle%20Race/Solution_0005.java)                            |
+|    Basic Programming    | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/)                                                   |   15   | [Solution_0005.java](https://github.com/felipedss/hackerhank-solutions/blob/main/Basic%20Programming/0005%20-%20The%20Hurdle%20Race/Solution_0005.java)                            |
 
 # Interview Preparation Kit
 
